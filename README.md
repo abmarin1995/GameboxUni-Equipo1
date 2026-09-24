@@ -1,2 +1,5 @@
 # GameboxUni-Equipo1
-Prueba del taller
+Proyecto de practica para sistemas y computacion.
+
+##Byte
+Byte atraviesa paredes
