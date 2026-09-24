@@ -2,4 +2,6 @@
 Proyecto de practica para sistemas y computacion.
 
 ##Byte
-Byte atraviesa paredes
+se detiene repentinamente
+atraviesa las paredes 
+tiene errores ocultos
